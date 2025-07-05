@@ -1,0 +1,2 @@
+- [`BigInteger.probablePrime(int, Random)`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/math/BigInteger.html#probablePrime(int,java.util.Random))  
+- [`BigInteger.isProbablePrime(int)`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/math/BigInteger.html#isProbablePrime(int))
